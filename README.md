@@ -1,5 +1,2 @@
-#TransparentStatusBar
-
-![alt text](https://github.com/Dvik/TransparentStatusBar/blob/master/TransparentStatusBar.jpg)
-
+![](https://github.com/Dvik/TransparentStatusBar/blob/master/TransparentStatusBar.jpg =250x250)
 
